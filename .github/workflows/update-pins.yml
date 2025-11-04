@@ -1,33 +1,30 @@
-name: 📈 Update Profile Stats (Weekly)
+name: 📌 Update Pinned Repositories (Weekly)
 
 on:
   schedule:
-    - cron: "0 9 * * 1" # Every Monday at 9 AM UTC
+    - cron: "0 9 * * 0" # Every Sunday at 9 AM UTC
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-pins:
     runs-on: ubuntu-latest
     steps:
       - name: 🧱 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: 🧩 Update GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: ⚙️ Update Pinned Repositories
+        uses: yusukebe/github-pinned-repos-action@v2
         with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           username: AlaaEddinAlbarghoth
-          token: ${{ secrets.GITHUB_TOKEN }}
+          repoCount: 6
+          sort: "pushed"
+          direction: "desc"
 
-      - name: 🔄 Update Activity Graph
-        uses: Ashutosh00710/github-readme-activity-graph@master
-        with:
-          username: AlaaEddinAlbarghoth
-          theme: tokyo-night
-
-      - name: ✅ Commit & Push Updated Stats
+      - name: ✅ Commit & Push Updated Pins
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "chore(stats): auto-update profile insights" || echo "No changes to commit"
+          git commit -m "chore(pins): auto-update pinned repositories" || echo "No changes to commit"
           git push
