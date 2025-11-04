@@ -1,0 +1,37 @@
+# JetBrains IDEs (IntelliJ IDEA, Android Studio)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle and build outputs
+.gradle/
+build/
+*/build/
+out/
+bin/
+
+# Android/Native build artifacts
+local.properties
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Kotlin/Java compiler outputs
+*.class
+*.kotlin_module
+
+# Logs
+*.log
+
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code workspace settings
+.vscode/
+
+# Node/Yarn dependencies (if present for tooling)
+node_modules/
+dist/
+
