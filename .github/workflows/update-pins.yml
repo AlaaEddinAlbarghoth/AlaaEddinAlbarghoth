@@ -1,0 +1,26 @@
+name: 🔄 Auto-Sync Pinned Repositories
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "README.md"
+  workflow_dispatch:
+
+jobs:
+  update-pins:
+    name: Refresh GitHub Profile Pinned Repos
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧱 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🧰 Update pinned repositories
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: AlaaEddinAlbarghoth
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ✅ Log success
+        run: echo "Pinned repositories for @AlaaEddinAlbarghoth have been refreshed!"

@@ -1,98 +1,108 @@
+<!--
+SEO: Android Development, Kotlin, Jetpack Compose, Clean Architecture, MVVM, Hilt, Room, Coroutines, Flutter, Dart, CI/CD, Mobile Development, Open Source, Modularization, Scalable Architecture, Android Interview, Jetpack Compose Samples
+-->
+
 <h1 align="center">👋 Hi, I'm <b>Alaa Eddin Albarghoth</b></h1>
-<h3 align="center">🚀 Senior Android Engineer | Kotlin • Jetpack Compose • Clean Architecture</h3>
+<h3 align="center">🚀 Senior Android Engineer | Kotlin · Jetpack Compose · Clean Architecture · Performance Optimization</h3>
 
 <p align="center">
-  <a href="https://alaaeddinalbarghoth.bowale.app">🌐 Portfolio</a> • 
-  <a href="mailto:eng.alaa.brghoth@gmail.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/alaaeddin-albrghoth">💼 LinkedIn</a> • 
-  <a href="https://github.com/AlaaEddinAlbarghoth">🐙 GitHub</a>
+  <a href="https://alaaeddinalbarghoth.bowale.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge"></a>
+  <a href="mailto:eng.alaa.brghoth@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact-green?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/alaaeddin-albrghoth"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge"></a>
+  <a href="https://github.com/AlaaEddinAlbarghoth"><img src="https://img.shields.io/badge/🐙_GitHub-Follow-black?style=for-the-badge"></a>
 </p>
 
 ---
 
+> 👨‍💻 Turning complex Android challenges into elegant, maintainable systems — with a touch of Compose magic.
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Jetpack+Compose+%7C+Kotlin+%7C+Clean+Architecture;Building+Scalable+Apps+for+Millions;Mentor+%7C+Open+Source+Contributor;CI%2FCD+Automation+%7C+System+Design&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Jetpack+Compose+%7C+Kotlin+%7C+Clean+Architecture;Android+Development+%7C+MVVM+%7C+Hilt+%7C+Room;Building+Scalable+Apps+for+Millions;Mentor+%7C+Open+Source+Contributor;CI%2FCD+Automation+%7C+System+Design&center=true&width=550&height=45&color=8A2BE2">
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me — The Journey So Far
 
-🧩 Senior Android Engineer specialized in scalable systems for messaging, commerce, and field operations.  
+🧩 Senior Android Engineer specialized in **Jetpack Compose**, **Kotlin**, and **Clean Architecture**, delivering **scalable, modular, and high-performance Android apps**.
 
-🎯 8+ years of experience delivering and scaling mobile systems across Africa, Turkey & the Middle East.  
+🎯 8+ years of experience crafting **mobile systems** across Africa, Turkey & the Middle East.
 
-- 📱 Built and optimized features for **Ayoba** (50M+ users), improving stability and UX.  
-- 🧩 Modernized legacy apps with **Jetpack Compose**, **Hilt**, and **Clean Architecture**, reducing crashes by ~40%.  
-- ⚙️ Refactored multi-module apps and introduced **CI/CD pipelines**, cutting build times by 25–35%.  
-- 🧠 Strong focus on architecture clarity, performance optimization & developer experience.  
-- 🌍 Open to remote or on-site roles in **Europe · USA · Australia**.  
-- 💬 Ask me about Compose state management, modular design, and scalable UI systems.  
+- 📱 Built and optimized features for **Ayoba (50M+ users)**, improving stability and UX.
+- 🧩 Modernized legacy apps using **Jetpack Compose**, **Hilt**, and **Coroutines**, reducing crashes ≈40%.
+- ⚙️ Introduced **multi-module architecture** and **GitLab CI/CD pipelines**, reducing build times ≈35%.
+- 💡 Focused on **architecture clarity**, **performance optimization**, and **developer experience**.
+- 🌍 Open to remote or on-site roles in **Europe · USA · Australia**.
+- 💬 Ask me about **state management**, **Compose performance tuning**, or **scalable UI systems**.
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages & Frameworks**  
-`Kotlin` • `Jetpack Compose` • `Coroutines` • `Flow` • `Hilt` • `Room` • `Retrofit` • `KMP` • `Firebase`  
+#### 💻 Core
+`Kotlin` · `Jetpack Compose` · `Hilt` · `Coroutines` · `Flow` · `Room` · `Retrofit` · `KMP` · `Firebase`
 
-**Architecture & Patterns**  
-`Clean Architecture` • `MVVM` • `MVI` • `SOLID` • `Modularization`  
+#### 🧱 Architecture & Principles
+`Clean Architecture` · `MVVM` · `MVI` · `SOLID` · `Modularization` · `Reactive UI`
 
-**CI/CD & Tools**  
-`GitLab CI/CD` • `AppCenter` • `Docker` • `JUnit` • `Espresso` • `Crashlytics` • `Firebase`  
+#### ⚙️ DevOps & Tools
+`GitLab CI/CD` · `AppCenter` · `Docker` · `JUnit` · `Espresso` · `Crashlytics` · `Firebase Analytics`
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Highlighted Projects — From Practice to Production
 
 | Project | Description | Tech |
-|----------|--------------|------|
-| [**AndroidMastery**](https://github.com/AlaaEddinAlbarghoth/AndroidMastery) | Real-world Android interview tasks with Compose & Clean Architecture. | Kotlin, Compose |
-| [**MyNotesList**](https://github.com/AlaaEddinAlbarghoth/MyNotesList) | Modern To-Do app with MVVM and reactive state management. | Hilt, Room |
-| [**MyFoodRecipes**](https://github.com/AlaaEddinAlbarghoth/MyFoodRecipes) | Offline-first recipes app with Flow and Retrofit. | Compose |
-| [**SatelliteApp**](https://github.com/AlaaEddinAlbarghoth/satellitesapp) | Real-time satellite tracking app with Clean Architecture. | Kotlin |
-| [**NewsFeed**](https://github.com/AlaaEddinAlbarghoth/NewsFeed) | News reader with REST API + local caching and Compose UI. | Coroutines |
-| [**Newsly (Flutter)**](https://github.com/AlaaEddinAlbarghoth/newsly) | Cross-platform Flutter news app with Bloc. | Dart |
+|:--|:--|:--|
+| [**AndroidMastery**](https://github.com/AlaaEddinAlbarghoth/AndroidMastery) | Real-world Android interview challenges with **Jetpack Compose**, **Kotlin Coroutines**, and **Clean Architecture** — a hands-on guide for modern Android development. | Kotlin, Compose |
+| [**NewsFeed**](https://github.com/AlaaEddinAlbarghoth/NewsFeed) | Modern **news reader** showcasing **Compose UI**, **Retrofit**, and **Room** with offline caching — designed for performance and scalable architecture. | Coroutines, Room |
+| [**MyTodoList**](https://github.com/AlaaEddinAlbarghoth/MyTodoList) | Reactive To-Do app using **MVVM**, **Hilt**, and **Compose state management** for a clean and elegant UI. | Hilt, Room |
+| [**SatelliteApp**](https://github.com/AlaaEddinAlbarghoth/satellitesapp) | Real-time satellite tracker built with **Jetpack Compose**, **Kotlin Flow**, and **Clean Architecture** — visualizing live data beautifully. | Kotlin, Flow |
+| [**MyFoodRecipes**](https://github.com/AlaaEddinAlbarghoth/MyFoodRecipes) | Offline-first recipe browser powered by **Compose**, **Retrofit**, and **Coroutines** — showcasing Clean Architecture and smooth UX. | Compose, Flow |
+| [**Newsly (Flutter)**](https://github.com/AlaaEddinAlbarghoth/newsly) | Cross-platform news app using **Flutter Bloc** pattern and clean state management — bridging Android and iOS under one architecture. | Dart, Flutter |
 
 ---
 
 ### 🏢 Career Highlights
 
-#### 📱 Ayoba (South Africa, via AppCent) — *Sep 2022 → Mar 2025*  
-- Developed new features for a super app with **50 million users**, improving stability and UX.  
-- Integrated MTN services and modernized architecture using Jetpack and Hilt.  
+#### 📱 Ayoba (South Africa, via AppCent) — *Sep 2022 → Mar 2025*
+- Developed features for a **super app** serving **50M+ users**.
+- Integrated MTN services and modernized the architecture with **Jetpack** & **Hilt**.
 
-#### ⚙️ AppCent (Turkey) — *Dec 2020 → Mar 2025*  
-- Delivered core modules for Ayoba and Safat Home; introduced Compose UI modernization.  
-- Improved CI/CD pipelines (GitLab + AppCenter), cutting build times by ≈ 30%.  
+#### ⚙️ AppCent (Turkey) — *Dec 2020 → Mar 2025*
+- Delivered core modules for Ayoba and Safat Home.
+- Built **Compose UI modernization** and **AppCenter-based CI/CD** pipelines.
 
-#### 🧠 MGS Software — *Jan 2020 → Dec 2020*  
-- Modernized security apps with Jetpack, Hilt & Room → crashes -40%.  
-- Added offline-first sync with Coroutines + FCM.  
+#### 🧠 MGS Software — *Jan 2020 → Dec 2020*
+- Refactored **security apps**, reducing crashes by 40%.
+- Implemented **offline-first sync** using **Coroutines** + **Firebase Cloud Messaging**.
 
-#### 💡 TamTech — *2018 → 2019*  
-- Built AR-based auction apps and reduced rendering latency by ~20%.  
+#### 💡 TamTech — *2018 → 2019*
+- Built **AR-based auction apps** and improved rendering latency ≈20%.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Visuals
 
-![Alaa’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaaEddinAlbarghoth&show_icons=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlaaEddinAlbarghoth&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaEddinAlbarghoth&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaEddinAlbarghoth&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlaaEddinAlbarghoth&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaEddinAlbarghoth&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
 ### 🏆 Achievements & Community
 
-- 🚀 Contributed to apps serving 50M+ users worldwide.  
-- 🔧 Reduced build times by ≈ 35% via GitLab CI/CD automation.  
-- 🧠 Mentored junior engineers to adopt Clean Architecture and Compose.  
-- 💎 Maintainer of open-source [**Sakura Store**](https://github.com/AlaaEddinAlbarghoth/sakura-store).  
-- 🎤 Active in Android communities & Compose architecture discussions.  
+- 🚀 Contributed to apps serving **50M+ users** globally.
+- 🔧 Reduced build times ≈35% via **GitLab CI/CD automation**.
+- 🧠 Mentored developers to adopt **Clean Architecture** & **Compose best practices**.
+- 💎 Maintainer of open-source [**Sakura Store**](https://github.com/AlaaEddinAlbarghoth/sakura-store).
+- 🎤 Speaker in **Android communities** & **Compose architecture events**.
+- 🌍 Projects used by developers in **5+ countries**.
 
 ---
 
@@ -109,16 +119,25 @@
 
 ---
 
+<details>
+<summary>🎧 Fun Facts</summary>
+
+- ☕ Favorite debugging fuel: Turkish coffee
+- 🛠️ Weekend hobby: Building AI-assisted dev tools
+- 🎮 Current challenge: Beating Compose animations at 120 FPS
+</details>
+
+---
+
 ### 🤝 Let’s Connect & Collaborate
 
-📬 `eng.alaa.brghoth@gmail.com`  
-📍 Istanbul, Turkey (Remote friendly)  
-🔗 [https://alaaeddinalbarghoth.bowale.app](https://alaaeddinalbarghoth.bowale.app)  
-
-💬 Let’s build something amazing — open to collaborations, mentorship, and speaking opportunities.  
+📬 **eng.alaa.brghoth@gmail.com**  
+📍 *Istanbul, Turkey (Remote friendly)*  
+🔗 [https://alaaeddinalbarghoth.bowale.app](https://alaaeddinalbarghoth.bowale.app)
 
 <p align="center">
-  ⭐ If you like my work, <b>consider starring or following</b> — it helps a lot!  
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=AlaaEddinAlbarghoth&label=Profile%20views&color=blueviolet&style=flat"/>
+⭐ If you like my work, <b>follow</b> for more open-source Android projects, architecture insights, and Compose write-ups.  
+<br>Next project drops soon 🚀  
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=AlaaEddinAlbarghoth&label=Profile_Views&color=blueviolet&style=flat"/>
 </p>

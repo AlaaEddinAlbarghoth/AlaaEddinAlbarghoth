@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# macOS system files
+.DS_Store
+
+# VSCode workspace
+.vscode/
+
+# Build and temp files
+out/
+build/
