@@ -133,7 +133,7 @@ SEO: Android Development, Kotlin, Jetpack Compose, Clean Architecture, MVVM, Hil
 
 📬 **eng.alaa.brghoth@gmail.com**  
 📍 *Istanbul, Turkey (Remote friendly)*  
-🔗 [https://alaaeddinalbarghoth.bowale.app](https://alaaeddinalbarghoth.bowale.app)
+🔗 [https://alaaeddin-albarghoth.lovable.app/](https://alaaeddin-albarghoth.lovable.app)
 
 <p align="center">
 ⭐ If you like my work, <b>follow</b> for more open-source Android projects, architecture insights, and Compose write-ups.  
