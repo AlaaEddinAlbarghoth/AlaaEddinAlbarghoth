@@ -6,7 +6,7 @@ SEO: Android Development, Kotlin, Jetpack Compose, Clean Architecture, MVVM, Hil
 <h3 align="center">🚀 Senior Android Engineer | Kotlin · Jetpack Compose · Clean Architecture · Performance Optimization</h3>
 
 <p align="center">
-  <a href="https://alaaeddinalbarghoth.bowale.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge"></a>
+  <a href="https://alaaeddin-albarghoth.lovable.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge"></a>
   <a href="mailto:eng.alaa.brghoth@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact-green?style=for-the-badge"></a>
   <a href="https://linkedin.com/in/alaaeddin-albrghoth"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge"></a>
   <a href="https://github.com/AlaaEddinAlbarghoth"><img src="https://img.shields.io/badge/🐙_GitHub-Follow-black?style=for-the-badge"></a>
